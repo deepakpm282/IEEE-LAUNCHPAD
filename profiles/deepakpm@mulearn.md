@@ -12,13 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| NiLLQ               | Developed a medical appointment booking system for hospitals and home clinics, Implemented three web dashboards for admin, hospitals, and doctors, with respective functionalities,  Designed two mobile applications: one for doctors to manage appointments and patient details, and one for patients
- to book appointments, pay fees, and provide feedback.  Enabled seamless appointment scheduling, department and doctor management, and patient engagement. Ensured a user-friendly and interactive interface for enhanced usability | https://github.com/deepakpm282/Hospital |
-
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+| NiLLQ               | Developed a medical appointment booking system for hospitals and home clinics, Implemented three web dashboards for admin, hospitals, and doctors, with respective functionalities,  Designed two mobile applications: one for doctors to manage appointments and patient details, and one for patients to book appointments, pay fees, and provide feedback.  Enabled seamless appointment scheduling, department and doctor management, and patient engagement. Ensured a user-friendly and interactive interface for enhanced usability |  | https://github.com/deepakpm282/Hospital
 
 #### Career Plan:
 
@@ -31,9 +25,4 @@
 #### Competitive Website Profiles:
 
 - https://leetcode.com/u/iamdeepakpm282/on.
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
